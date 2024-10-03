@@ -5960,7 +5960,7 @@ header.woocommerce-Address-title.title {
 }
 .mode-switch-btn .mode-swich-label:hover svg path,
 .mode-switch-btn .tgl:checked + .mode-swich-label:hover svg path {
-  fill: #4bffa5;
+  fill: #fecb72;
   opacity: 1;
 }
 .mode-switch-btn .tgl:checked + .mode-swich-label svg path {
